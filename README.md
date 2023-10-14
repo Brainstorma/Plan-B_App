@@ -23,6 +23,17 @@ To run Plan-B locally, you need to have Node.js, npm, and Wasp CLI installed on 
 5. Open `http://localhost:3000` in your browser and enjoy!
 
 ## Screenshots
-https://github.com/Brainstorma/Plan-B_App/blob/main/Login%20Page.png
-!Home page
-!Add plant page
+Login Page
+  <a href="https://github.com/Brainstorma/Plan-B_App">
+    <img src="Login Page.png" alt="login">
+  </a>
+
+Home Page
+  <a href="https://github.com/Brainstorma/Plan-B_App">
+    <img src="Home Page.png" alt="Home">
+  </a>
+
+Add Plant Page
+  <a href="https://github.com/Brainstorma/Plan-B_App">
+    <img src="Add Plant.png" alt="Add">
+  </a>
